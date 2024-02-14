@@ -16,7 +16,8 @@ import pandas as pd
 
 
 #DATABASE_DIR="/data2/kaylakxu/PGPortfolio-master/PGPortfolio-master/database/Data.db"
-DATABASE_DIR = './database/Data.db'
+# DATABASE_DIR = './database/Data.db'
+DATABASE_DIR = '/kaggle/input/data-crypto/Data.db'
 # About time
 NOW = 0
 FIVE_MINUTES = 60 * 5
